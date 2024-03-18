@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1076162802573",
+    "firebase_url": "https://foodapp-29b5f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "foodapp-29b5f",
+    "storage_bucket": "foodapp-29b5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076162802573:android:72fde64fdcf8812f14c3c4",
+        "android_client_info": {
+          "package_name": "com.buitrunghieu.rider_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT0vRBojOm0y8h2wxQdg12uoEqXQZGWME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076162802573:android:2dd000a026cb345314c3c4",
+        "android_client_info": {
+          "package_name": "com.buitrunghieu.sellerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT0vRBojOm0y8h2wxQdg12uoEqXQZGWME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
