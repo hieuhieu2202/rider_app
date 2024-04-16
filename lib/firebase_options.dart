@@ -53,11 +53,10 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBT0vRBojOm0y8h2wxQdg12uoEqXQZGWME',
-    appId: '1:1076162802573:android:72fde64fdcf8812f14c3c4',
-    messagingSenderId: '1076162802573',
-    projectId: 'foodapp-29b5f',
-    databaseURL: 'https://foodapp-29b5f-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'foodapp-29b5f.appspot.com',
+    apiKey: 'AIzaSyARbm3cPd2PyAu0zuBu4K7570Ju7Cfvb0I',
+    appId: '1:399425782364:android:eacfbf9944706ba80cdc99',
+    messagingSenderId: '399425782364',
+    projectId: 'dilivery-food22',
+    storageBucket: 'dilivery-food22.appspot.com',
   );
 }

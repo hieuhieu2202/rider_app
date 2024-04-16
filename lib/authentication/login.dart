@@ -1,10 +1,7 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
-
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:get/get.dart';
 import 'package:rider_app/authentication/auth_screen.dart';
-
 import '../global/global.dart';
 import '../mainScreen/home_screen.dart';
 import '../widgets/custom_text_field.dart';
@@ -95,8 +92,6 @@ class _LoginScreenState extends State<LoginScreen> {
             context, MaterialPageRoute(builder: (c) => const HomeScreen()));
         // Get.back();
         // Get.to(const HomeScreen());
-
-
       } else {
         firebaseAuth.signOut();
         Navigator.pop(context);

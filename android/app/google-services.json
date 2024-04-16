@@ -1,14 +1,13 @@
 {
   "project_info": {
-    "project_number": "1076162802573",
-    "firebase_url": "https://foodapp-29b5f-default-rtdb.asia-southeast1.firebasedatabase.app",
-    "project_id": "foodapp-29b5f",
-    "storage_bucket": "foodapp-29b5f.appspot.com"
+    "project_number": "399425782364",
+    "project_id": "dilivery-food22",
+    "storage_bucket": "dilivery-food22.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1076162802573:android:72fde64fdcf8812f14c3c4",
+        "mobilesdk_app_id": "1:399425782364:android:eacfbf9944706ba80cdc99",
         "android_client_info": {
           "package_name": "com.buitrunghieu.rider_app"
         }
@@ -16,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBT0vRBojOm0y8h2wxQdg12uoEqXQZGWME"
+          "current_key": "AIzaSyARbm3cPd2PyAu0zuBu4K7570Ju7Cfvb0I"
         }
       ],
       "services": {
@@ -27,7 +26,7 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1076162802573:android:2dd000a026cb345314c3c4",
+        "mobilesdk_app_id": "1:399425782364:android:20a578a9fb6617e60cdc99",
         "android_client_info": {
           "package_name": "com.buitrunghieu.sellerapp"
         }
@@ -35,7 +34,26 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBT0vRBojOm0y8h2wxQdg12uoEqXQZGWME"
+          "current_key": "AIzaSyARbm3cPd2PyAu0zuBu4K7570Ju7Cfvb0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399425782364:android:c36f5ac38f34efa50cdc99",
+        "android_client_info": {
+          "package_name": "com.buitrunghieu.user_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARbm3cPd2PyAu0zuBu4K7570Ju7Cfvb0I"
         }
       ],
       "services": {
